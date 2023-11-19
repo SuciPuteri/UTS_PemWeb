@@ -1,0 +1,36 @@
+1.  Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+    (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+    =>  framework adalah alat bantu seperti blueprint yang digunakan dalam membangun sebuah aplikasi.
+        jika dalam membangun atau membuat suatu aplikasi tanpa framework, maka akan membutuhkan waktu yang sangat lama 
+        juga kurang terstruktur. Dan jika menggunakan framework maka akan menghemat waktu dan usaha dalam pembuatannya.
+
+
+===========================================================================================================================================
+
+2.1.    Sebutkan tema proyek yang sedang digarap!
+        =>  Aplikas Desa
+
+
+
+2.2.    Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+        =>  Devi Apriyanti           (22416255201057)   : Laporan
+        =>  Dias Fikri Nurdiansyah   (22416255201085)   : Program
+        =>  Suci Ridyanti Puteri     (22416255201235)   : Database
+
+
+
+2.3.    Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, 
+        beserta hipotesa solusi yang kalian usung! 
+        (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+        
+        =>  Permasalahan yang terjadi di desa yang kami pilih adalah pegawai desa masih melakukan pendataan 
+            secara manual yang menyebabkan banyak waktu yang terpakai untuk pendataan. Juga adanya pihak ketiga(calo) 
+            dalam pelayanan pembuatan surat di desa.
+
+            hipotesa solusi kami yaitu didalam aplikasi desa yang kami buat, kami membuatkan fitur yang digunakan sebagai 
+            pelayanan desa seperti pengajuan surat. Dimana saat warga desa mengajukan surat di fitur tersebut warga hanya 
+            perlu mengisi data yang diperlukan lalu menunggu surat yang diajukan di setujui oleh pihak yang bersangkutan.
+            jika surat sudah disetujui, warga dapat mendunduh file surat tanpa harus pergi ke desa.
+
+            lalu dalam pendataan warga kita membuatkan fitur pendataan yang mana fitur tersebut hanya dapat di akses oleh pegawai desa. 
+            di dalam fitur tersebut pegawai harus menginput data warga, jika sudah di upload maka data warga akan terperbaharui.
